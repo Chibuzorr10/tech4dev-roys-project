@@ -1,0 +1,32 @@
+body{
+    background-color:hsl(212, 45%, 89%)
+    
+}
+
+.qrcode{
+
+        background-color: white;
+        margin: 100px  auto;
+        width: 300px;
+        border: none;
+        padding: 20px 20px;
+        border-radius: 5%;
+    }
+
+
+.img-qrcode{
+    width: 300px;
+    height: 350px;
+    border-radius: 5%;
+
+}
+
+.container-info{
+    font-size: 11px;
+    text-align: center;
+    
+}
+
+.container-info p {
+    font-size: 15px;
+}
